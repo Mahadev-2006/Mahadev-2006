@@ -15,7 +15,8 @@
 </div>
 
 ## 🔬 Research & Experience
-* **Signal Processing & ML Intern** at BSSR Lab: Developed emotion recognition pipelines using ECG/PPG signals with **94% accuracy**.
+* **Web Development Intern** at **InAmigos Foundation**: Developed responsive web apps, conducted UX/UI audits, and designed conceptual interfaces for AI-driven clinical wellness portals.
+* **Signal Processing & ML Intern** at **BSRR Lab**: Developed emotion recognition pipelines using ECG/PPG signals with **94% accuracy**.
 * **Explainable Deep Learning:** Built multi-task neural networks using **ESM-2** for protein mutation pathogenicity and ΔΔG prediction.
 * **Neuromorphic Computing:** Implemented event-driven **SNNs** for low-latency arrhythmia classification on wearable devices.
 * **Agentic Medical AI:** Developing **Aarokkiya**, an AI health system for disease classification and automated clinical summaries.
@@ -23,10 +24,13 @@
 ## 🛠 Tech Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI/ML & Explainability** | PyTorch, XGBoost, Captum (Integrated Gradients), UMAP, Optuna  |
-| **NLP & Bio-LLMs** | Hugging Face (ESM-2), Ollama, LLaMA, BioGPT  |
-| **Signal Processing** | ECG/PPG Analysis, snnTorch, Brian2, Sensors Integration |
-| **Hardware & Dev** | Python, ESP32, IoT Systems, Git |
+| **AI/ML & Explainability** | PyTorch, TensorFlow, Scikit-Learn, Captum (Integrated Gradients), SHAP, Grad-CAM, UMAP, Optuna |
+| **NLP, Bio-LLMs & Agents** | Hugging Face (ESM-2), Ollama, LLaMA, BioGPT, RAG Pipelines, AI Agents with MCP |
+| **Signal & Image Processing** | ECG/PPG Analysis, snnTorch, Brian2, OpenCV, Medical Imaging (CNN, ViT, ADMM) |
+| **Frontend & Web Dev** | HTML5, CSS3, JavaScript (ES6+), React, Node.js, Bootstrap, Figma |
+| **Backend & Databases** | MongoDB, Firebase, SQL |
+| **Hardware & Embedded** | Python, C, C++, MATLAB, ESP32, Raspberry Pi, Arduino, IoT Systems |
+| **Developer Tools** | VS Code, Git, GitHub |
 
 ---
 
